@@ -1,0 +1,6 @@
+authorized_keys
+ddns_secrets
+openvpn/*
+dropbear/*
+rstats-history
+system_time
