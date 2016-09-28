@@ -32,4 +32,5 @@ sleep 10
 
 . /etc/storage/ddns_script.sh
 
+. /etc/storage/geolocation_script.sh
 

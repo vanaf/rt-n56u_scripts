@@ -1,6 +1,8 @@
 authorized_keys
-ddns_secrets
+*_secrets
 openvpn/*
 dropbear/*
 rstats-history
 system_time
+*_drop
+scp_known_hosts
